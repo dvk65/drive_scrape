@@ -1,0 +1,6 @@
+Google has updated its privacy policy to detect selenium webdriver as a bot.
+So, this code logs in to stackoverflow and then opens the google drive for us.
+
+The xpath and element path ids change based on the number of folders and files. So after scraping the main folders, I scraped the individual files based on the text present in the extensions.
+
+This is a jupyter notebook.
